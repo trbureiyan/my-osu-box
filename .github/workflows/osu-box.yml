@@ -30,3 +30,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+# 2025-2
